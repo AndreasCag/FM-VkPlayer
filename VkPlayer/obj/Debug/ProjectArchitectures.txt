@@ -1,0 +1,2 @@
+D:\GitProjects\FM-VkPlayer\VK.WindowsPhone.SDK-XAML\VK.WindowsPhone.SDK-XAML.csproj;neutral
+D:\GitProjects\FM-VkPlayer\VkPlayer\VkPlayer.csproj;neutral

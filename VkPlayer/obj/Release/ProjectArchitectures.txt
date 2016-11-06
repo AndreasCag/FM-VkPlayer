@@ -1,0 +1,2 @@
+C:\Users\Andreas\Documents\Visual Studio 2015\Projects\VkPlayer\VkPlayer\VkPlayer.csproj;neutral
+C:\Users\Andreas\Downloads\vk-windowsphone-sdk-master\vk-windowsphone-sdk-master\VK.WindowsPhone.SDK-XAML\VK.WindowsPhone.SDK-XAML.csproj;neutral

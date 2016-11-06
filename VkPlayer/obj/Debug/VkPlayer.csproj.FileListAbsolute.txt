@@ -1,0 +1,78 @@
+c:\users\andreas\documents\visual studio 2015\Projects\VkPlayer\VkPlayer\obj\Debug\VkPlayer.csprojResolveAssemblyReference.cache
+c:\users\andreas\documents\visual studio 2015\Projects\VkPlayer\VkPlayer\obj\Debug\App.g.i.cs
+c:\users\andreas\documents\visual studio 2015\Projects\VkPlayer\VkPlayer\obj\Debug\App.g.cs
+c:\users\andreas\documents\visual studio 2015\Projects\VkPlayer\VkPlayer\obj\Debug\MainPage.g.i.cs
+c:\users\andreas\documents\visual studio 2015\Projects\VkPlayer\VkPlayer\obj\Debug\MainPage.g.cs
+c:\users\andreas\documents\visual studio 2015\Projects\VkPlayer\VkPlayer\obj\Debug\XamlTypeInfo.g.cs
+c:\users\andreas\documents\visual studio 2015\Projects\VkPlayer\VkPlayer\obj\Debug\App.xaml
+c:\users\andreas\documents\visual studio 2015\Projects\VkPlayer\VkPlayer\obj\Debug\MainPage.xaml
+c:\users\andreas\documents\visual studio 2015\Projects\VkPlayer\VkPlayer\obj\Debug\App.xbf
+c:\users\andreas\documents\visual studio 2015\Projects\VkPlayer\VkPlayer\obj\Debug\MainPage.xbf
+c:\users\andreas\documents\visual studio 2015\Projects\VkPlayer\VkPlayer\obj\Debug\XamlSaveStateFile.xml
+c:\users\andreas\documents\visual studio 2015\Projects\VkPlayer\VkPlayer\bin\Debug\App.xbf
+c:\users\andreas\documents\visual studio 2015\Projects\VkPlayer\VkPlayer\bin\Debug\MainPage.xbf
+c:\users\andreas\documents\visual studio 2015\Projects\VkPlayer\VkPlayer\bin\Debug\VkPlayer.xr.xml
+c:\users\andreas\documents\visual studio 2015\Projects\VkPlayer\VkPlayer\bin\Debug\VkPlayer.exe
+c:\users\andreas\documents\visual studio 2015\Projects\VkPlayer\VkPlayer\bin\Debug\VkPlayer.pdb
+c:\users\andreas\documents\visual studio 2015\Projects\VkPlayer\VkPlayer\bin\Debug\resources.pri
+c:\users\andreas\documents\visual studio 2015\Projects\VkPlayer\VkPlayer\bin\Debug\AppxManifest.xml
+c:\users\andreas\documents\visual studio 2015\Projects\VkPlayer\VkPlayer\bin\Debug\VkPlayer.build.appxrecipe
+c:\users\andreas\documents\visual studio 2015\Projects\VkPlayer\VkPlayer\bin\Debug\VK.WindowsPhone.SDK-XAML.dll
+c:\users\andreas\documents\visual studio 2015\Projects\VkPlayer\VkPlayer\bin\Debug\Newtonsoft.Json.dll
+c:\users\andreas\documents\visual studio 2015\Projects\VkPlayer\VkPlayer\bin\Debug\VK.WindowsPhone.SDK-XAML.pdb
+c:\users\andreas\documents\visual studio 2015\Projects\VkPlayer\VkPlayer\bin\Debug\VK.WindowsPhone.SDK-XAML.pri
+c:\users\andreas\documents\visual studio 2015\Projects\VkPlayer\VkPlayer\bin\Debug\Newtonsoft.Json.xml
+c:\users\andreas\documents\visual studio 2015\Projects\VkPlayer\VkPlayer\obj\Debug\VkPlayer.exe
+c:\users\andreas\documents\visual studio 2015\Projects\VkPlayer\VkPlayer\obj\Debug\VkPlayer.pdb
+c:\users\andreas\documents\visual studio 2015\Projects\VkPlayer\VkPlayer\obj\Debug\VkPlayer.csproj.GenerateResource.Cache
+c:\users\andreas\documents\visual studio 2015\Projects\VkPlayer\VkPlayer\obj\Debug\priconfig.xml
+c:\users\andreas\documents\visual studio 2015\Projects\VkPlayer\VkPlayer\obj\Debug\priconfig.xml.intermediate
+c:\users\andreas\documents\visual studio 2015\Projects\VkPlayer\VkPlayer\obj\Debug\layout.resfiles
+c:\users\andreas\documents\visual studio 2015\Projects\VkPlayer\VkPlayer\obj\Debug\layout.resfiles.intermediate
+c:\users\andreas\documents\visual studio 2015\Projects\VkPlayer\VkPlayer\obj\Debug\resources.resfiles
+c:\users\andreas\documents\visual studio 2015\Projects\VkPlayer\VkPlayer\obj\Debug\resources.resfiles.intermediate
+c:\users\andreas\documents\visual studio 2015\Projects\VkPlayer\VkPlayer\obj\Debug\pri.resfiles
+c:\users\andreas\documents\visual studio 2015\Projects\VkPlayer\VkPlayer\obj\Debug\pri.resfiles.intermediate
+c:\users\andreas\documents\visual studio 2015\Projects\VkPlayer\VkPlayer\obj\Debug\qualifiers.txt
+c:\users\andreas\documents\visual studio 2015\Projects\VkPlayer\VkPlayer\obj\Debug\qualifiers.txt.intermediate
+c:\users\andreas\documents\visual studio 2015\Projects\VkPlayer\VkPlayer\obj\Debug\MultipleQualifiersPerDimensionFound.txt
+c:\users\andreas\documents\visual studio 2015\Projects\VkPlayer\VkPlayer\obj\Debug\ProjectArchitectures.txt
+D:\GitProjects\FM-VkPlayer\VkPlayer\bin\Debug\App.xbf
+D:\GitProjects\FM-VkPlayer\VkPlayer\bin\Debug\MainPage.xbf
+D:\GitProjects\FM-VkPlayer\VkPlayer\bin\Debug\VkPlayer.xr.xml
+D:\GitProjects\FM-VkPlayer\VkPlayer\bin\Debug\VkPlayer.exe
+D:\GitProjects\FM-VkPlayer\VkPlayer\bin\Debug\VkPlayer.pdb
+D:\GitProjects\FM-VkPlayer\VkPlayer\bin\Debug\resources.pri
+D:\GitProjects\FM-VkPlayer\VkPlayer\bin\Debug\AppxManifest.xml
+D:\GitProjects\FM-VkPlayer\VkPlayer\bin\Debug\VkPlayer.build.appxrecipe
+D:\GitProjects\FM-VkPlayer\VkPlayer\bin\Debug\VK.WindowsPhone.SDK-XAML.dll
+D:\GitProjects\FM-VkPlayer\VkPlayer\bin\Debug\Newtonsoft.Json.dll
+D:\GitProjects\FM-VkPlayer\VkPlayer\bin\Debug\VK.WindowsPhone.SDK-XAML.pdb
+D:\GitProjects\FM-VkPlayer\VkPlayer\bin\Debug\VK.WindowsPhone.SDK-XAML.pri
+D:\GitProjects\FM-VkPlayer\VkPlayer\bin\Debug\Newtonsoft.Json.xml
+D:\GitProjects\FM-VkPlayer\VkPlayer\obj\Debug\VkPlayer.csprojResolveAssemblyReference.cache
+D:\GitProjects\FM-VkPlayer\VkPlayer\obj\Debug\App.g.i.cs
+D:\GitProjects\FM-VkPlayer\VkPlayer\obj\Debug\App.g.cs
+D:\GitProjects\FM-VkPlayer\VkPlayer\obj\Debug\MainPage.g.i.cs
+D:\GitProjects\FM-VkPlayer\VkPlayer\obj\Debug\MainPage.g.cs
+D:\GitProjects\FM-VkPlayer\VkPlayer\obj\Debug\XamlTypeInfo.g.cs
+D:\GitProjects\FM-VkPlayer\VkPlayer\obj\Debug\App.xaml
+D:\GitProjects\FM-VkPlayer\VkPlayer\obj\Debug\MainPage.xaml
+D:\GitProjects\FM-VkPlayer\VkPlayer\obj\Debug\App.xbf
+D:\GitProjects\FM-VkPlayer\VkPlayer\obj\Debug\MainPage.xbf
+D:\GitProjects\FM-VkPlayer\VkPlayer\obj\Debug\XamlSaveStateFile.xml
+D:\GitProjects\FM-VkPlayer\VkPlayer\obj\Debug\VkPlayer.exe
+D:\GitProjects\FM-VkPlayer\VkPlayer\obj\Debug\VkPlayer.pdb
+D:\GitProjects\FM-VkPlayer\VkPlayer\obj\Debug\VkPlayer.csproj.GenerateResource.Cache
+D:\GitProjects\FM-VkPlayer\VkPlayer\obj\Debug\priconfig.xml
+D:\GitProjects\FM-VkPlayer\VkPlayer\obj\Debug\priconfig.xml.intermediate
+D:\GitProjects\FM-VkPlayer\VkPlayer\obj\Debug\layout.resfiles
+D:\GitProjects\FM-VkPlayer\VkPlayer\obj\Debug\layout.resfiles.intermediate
+D:\GitProjects\FM-VkPlayer\VkPlayer\obj\Debug\resources.resfiles
+D:\GitProjects\FM-VkPlayer\VkPlayer\obj\Debug\resources.resfiles.intermediate
+D:\GitProjects\FM-VkPlayer\VkPlayer\obj\Debug\pri.resfiles
+D:\GitProjects\FM-VkPlayer\VkPlayer\obj\Debug\pri.resfiles.intermediate
+D:\GitProjects\FM-VkPlayer\VkPlayer\obj\Debug\qualifiers.txt
+D:\GitProjects\FM-VkPlayer\VkPlayer\obj\Debug\qualifiers.txt.intermediate
+D:\GitProjects\FM-VkPlayer\VkPlayer\obj\Debug\MultipleQualifiersPerDimensionFound.txt
+D:\GitProjects\FM-VkPlayer\VkPlayer\obj\Debug\ProjectArchitectures.txt
